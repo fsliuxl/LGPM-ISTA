@@ -8,7 +8,7 @@ from scipy.io import loadmat, savemat
 
 rng = check_random_state(200)
 sr = .5
-n = 256 # x.shape[1]
+n = 256 
 m = int(n * sr)
 A = rng.randn(m, n)
 
