@@ -1,0 +1,4 @@
+Requirements:
+prox_tv, torch, numpy, numbers, matplotlib, time
+
+run test_lpgm-ista.py and the outputs show the plots of LPGM-ISTA and PGM-ISTA with 2 layers/iterations.
